@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+Algun texto que genere conflicto
